@@ -12,12 +12,12 @@ all fun, credits, beer, pizza, love goes to xkcd.
 ## current version is 0.2
 ### change log
 v0.2
-fix recurcive substitution, in an ugly way
-fix missing substitution 1 and 2 texts
+- fix recurcive substitution, in an ugly way
+- fix missing substitution 1 and 2 texts
 
 
 ## features
 
-click-to-transform
-easy to extends
-fun
+- click-to-transform
+- easy to extends
+- fun
